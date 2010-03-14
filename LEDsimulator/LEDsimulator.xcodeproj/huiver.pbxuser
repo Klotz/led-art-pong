@@ -1,0 +1,407 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 452}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 4DFE103B106E933200493CEF /* LEDsimulator */;
+		activeTarget = 8D1107260486CEB800E47090 /* LEDsimulator */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* LEDsimulator */,
+		);
+		breakpoints = (
+			4D9B94EB1072A5A600EEAF1A /* LEDsimulator.m:51 */,
+			4D9B95201072A80100EEAF1A /* LEDsimulator.m:61 */,
+			4D9B95261072A87800EEAF1A /* LEDsimulator.m:61 */,
+		);
+		codeSenseManager = 4DFE104A106E933E00493CEF /* Code sense */;
+		executables = (
+			4DFE103B106E933200493CEF /* LEDsimulator */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					993,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					933,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					969,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					13,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 290180413;
+			PBXWorkspaceStateSaveDate = 290180413;
+		};
+		perUserProjectItems = {
+			4D693A3B1073D2BC00FC79BD /* PBXTextBookmark */ = 4D693A3B1073D2BC00FC79BD /* PBXTextBookmark */;
+			4D693B481073F64B00FC79BD /* PBXTextBookmark */ = 4D693B481073F64B00FC79BD /* PBXTextBookmark */;
+			4D6DC763109F66B7006341CC /* PBXTextBookmark */ = 4D6DC763109F66B7006341CC /* PBXTextBookmark */;
+			4D7A05C3114CE02E00B5967B /* PBXTextBookmark */ = 4D7A05C3114CE02E00B5967B /* PBXTextBookmark */;
+			4DBF1CEB10ADFD1000179FC5 /* PBXTextBookmark */ = 4DBF1CEB10ADFD1000179FC5 /* PBXTextBookmark */;
+			4DF7F2FA1096425300491D98 /* PBXTextBookmark */ = 4DF7F2FA1096425300491D98 /* PBXTextBookmark */;
+			4DF7F3221096488D00491D98 /* PBXTextBookmark */ = 4DF7F3221096488D00491D98 /* PBXTextBookmark */;
+			4DFE10791070A01C00493CEF /* PBXTextBookmark */ = 4DFE10791070A01C00493CEF /* PBXTextBookmark */;
+			4DFE107A1070A01C00493CEF /* PBXTextBookmark */ = 4DFE107A1070A01C00493CEF /* PBXTextBookmark */;
+			4DFE107B1070A01C00493CEF /* PBXTextBookmark */ = 4DFE107B1070A01C00493CEF /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4DFE1049106E933E00493CEF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 452}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 259}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* LEDsimulator_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 452}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 155}";
+		};
+	};
+	4D693A3B1073D2BC00FC79BD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D693A3C1073D2BC00FC79BD /* ONTCPSocket.h */;
+		name = "ONTCPSocket.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1142;
+		vrLoc = 0;
+	};
+	4D693A3C1073D2BC00FC79BD /* ONTCPSocket.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ONTCPSocket.h;
+		path = /Users/Shared/huiver/InstalledProducts/OmniNetworking.framework/Headers/ONTCPSocket.h;
+		sourceTree = "<absolute>";
+	};
+	4D693B481073F64B00FC79BD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D693B491073F64B00FC79BD /* ONHost.h */;
+		name = "ONHost.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1574;
+		vrLoc = 1330;
+	};
+	4D693B491073F64B00FC79BD /* ONHost.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ONHost.h;
+		path = /Users/Shared/huiver/InstalledProducts/OmniNetworking.framework/Versions/A/Headers/ONHost.h;
+		sourceTree = "<absolute>";
+	};
+	4D6DC763109F66B7006341CC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DF7F2BA109626BA00491D98 /* StripeView.h */;
+		name = "StripeView.h: 16";
+		rLen = 0;
+		rLoc = 240;
+		rType = 0;
+		vrLen = 327;
+		vrLoc = 0;
+	};
+	4D7A05C3114CE02E00B5967B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DFE1075106FE86500493CEF /* LEDsimulator.m */;
+		name = "LEDsimulator.m: 140";
+		rLen = 0;
+		rLoc = 4609;
+		rType = 0;
+		vrLen = 1478;
+		vrLoc = 1555;
+	};
+	4D9B94EB1072A5A600EEAF1A /* LEDsimulator.m:51 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4DFE1075106FE86500493CEF /* LEDsimulator.m */;
+		functionName = "-awakeFromNib";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 51;
+		location = LEDsimulator;
+		modificationTime = 279835527.0806569;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	4D9B95201072A80100EEAF1A /* LEDsimulator.m:61 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4DFE1075106FE86500493CEF /* LEDsimulator.m */;
+		functionName = "-newConnection:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 61;
+		location = LEDsimulator;
+		modificationTime = 279835527.080788;
+		originalNumberOfMultipleMatches = 0;
+		state = 2;
+	};
+	4D9B95261072A87800EEAF1A /* LEDsimulator.m:61 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4DFE1075106FE86500493CEF /* LEDsimulator.m */;
+		functionName = "-dataReceivedNotification:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 61;
+		modificationTime = 279835527.175036;
+		originalNumberOfMultipleMatches = 0;
+		state = 0;
+	};
+	4DBF1CEB10ADFD1000179FC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DFE1075106FE86500493CEF /* LEDsimulator.m */;
+		name = "LEDsimulator.m: 140";
+		rLen = 0;
+		rLoc = 4609;
+		rType = 0;
+		vrLen = 1302;
+		vrLoc = 3824;
+	};
+	4DF7F2BA109626BA00491D98 /* StripeView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 573}}";
+			sepNavSelRange = "{240, 0}";
+			sepNavVisRange = "{0, 327}";
+		};
+	};
+	4DF7F2BB109626BA00491D98 /* StripeView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 728}}";
+			sepNavSelRange = "{843, 10}";
+			sepNavVisRange = "{0, 986}";
+		};
+	};
+	4DF7F2FA1096425300491D98 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DFE1074106FE86500493CEF /* LEDsimulator.h */;
+		name = "LEDsimulator.h: 16";
+		rLen = 14;
+		rLoc = 344;
+		rType = 0;
+		vrLen = 1175;
+		vrLoc = 39;
+	};
+	4DF7F3221096488D00491D98 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DF7F2BB109626BA00491D98 /* StripeView.m */;
+		name = "StripeView.m: 39";
+		rLen = 10;
+		rLoc = 843;
+		rType = 0;
+		vrLen = 986;
+		vrLoc = 0;
+	};
+	4DFE103B106E933200493CEF /* LEDsimulator */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = LEDsimulator;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+			$cs = 1;
+			$ds = 1;
+			$eax = 1;
+			$ebp = 1;
+			$ebx = 1;
+			$ecx = 1;
+			$edi = 1;
+			$edx = 1;
+			$eflags = 1;
+			$eip = 1;
+			$es = 1;
+			$esi = 1;
+			$esp = 1;
+			$gs = 1;
+			$ss = 1;
+		};
+	};
+	4DFE1049106E933E00493CEF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryName = "https://opensvn.csie.org/ledArtPong";
+			repositoryNamesForRoots = {
+				"" = "https://opensvn.csie.org/ledArtPong";
+			};
+		};
+	};
+	4DFE104A106E933E00493CEF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4DFE1074106FE86500493CEF /* LEDsimulator.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 658}}";
+			sepNavSelRange = "{344, 14}";
+			sepNavVisRange = "{39, 1175}";
+		};
+	};
+	4DFE1075106FE86500493CEF /* LEDsimulator.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1349, 2197}}";
+			sepNavSelRange = "{4609, 0}";
+			sepNavVisRange = "{1555, 1478}";
+		};
+	};
+	4DFE10791070A01C00493CEF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	4DFE107A1070A01C00493CEF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* LEDsimulator_Prefix.pch */;
+		name = "LEDsimulator_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 155;
+		vrLoc = 0;
+	};
+	4DFE107B1070A01C00493CEF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 259;
+		vrLoc = 0;
+	};
+	8D1107260486CEB800E47090 /* LEDsimulator */ = {
+		activeExec = 0;
+		executables = (
+			4DFE103B106E933200493CEF /* LEDsimulator */,
+		);
+	};
+}

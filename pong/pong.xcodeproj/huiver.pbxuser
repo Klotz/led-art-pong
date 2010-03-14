@@ -1,0 +1,547 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Runner;
+		activeExecutable = 9B540EC310294B99000703C8 /* pong */;
+		activeTarget = 9B496A0E1029452D00B64F7F /* pong */;
+		addToTargets = (
+			9B496A0E1029452D00B64F7F /* pong */,
+		);
+		codeSenseManager = 9BEA5B4D102949590020522E /* Code sense */;
+		executables = (
+			9B540EC310294B99000703C8 /* pong */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					802.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					883,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					880.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					870,
+					20,
+					48,
+					43,
+					43,
+					20,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+					PBXFileDataSource_SCM_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					933,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					870,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					953,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 290180505;
+			PBXWorkspaceStateSaveDate = 290180505;
+		};
+		perUserProjectItems = {
+			4D0236BA114A83E7009D8434 /* PBXTextBookmark */ = 4D0236BA114A83E7009D8434 /* PBXTextBookmark */;
+			4D0236BD114A83E7009D8434 /* PBXTextBookmark */ = 4D0236BD114A83E7009D8434 /* PBXTextBookmark */;
+			4D26E62310CE3F780082FE20 /* PBXTextBookmark */ = 4D26E62310CE3F780082FE20 /* PBXTextBookmark */;
+			4D3FB353114BC6790051E6D6 /* PBXTextBookmark */ = 4D3FB353114BC6790051E6D6 /* PBXTextBookmark */;
+			4D6222A510BC3E720071E12C /* PBXTextBookmark */ = 4D6222A510BC3E720071E12C /* PBXTextBookmark */;
+			4D7A05CD114CE02F00B5967B /* PBXTextBookmark */ = 4D7A05CD114CE02F00B5967B /* PBXTextBookmark */;
+			4D7A05CE114CE02F00B5967B /* PBXTextBookmark */ = 4D7A05CE114CE02F00B5967B /* PBXTextBookmark */;
+			4D7A05CF114CE02F00B5967B /* PBXTextBookmark */ = 4D7A05CF114CE02F00B5967B /* PBXTextBookmark */;
+			4D7A05D0114CE02F00B5967B /* PBXTextBookmark */ = 4D7A05D0114CE02F00B5967B /* PBXTextBookmark */;
+			4D7A05D1114CE02F00B5967B /* PBXTextBookmark */ = 4D7A05D1114CE02F00B5967B /* PBXTextBookmark */;
+			4D7A05D2114CE02F00B5967B /* PBXTextBookmark */ = 4D7A05D2114CE02F00B5967B /* PBXTextBookmark */;
+			4D7A05D3114CE02F00B5967B /* PBXTextBookmark */ = 4D7A05D3114CE02F00B5967B /* PBXTextBookmark */;
+			4D7A05D4114CE02F00B5967B /* PBXTextBookmark */ = 4D7A05D4114CE02F00B5967B /* PBXTextBookmark */;
+			4D7B95B710B3E03600BC0948 /* PBXTextBookmark */ = 4D7B95B710B3E03600BC0948 /* PBXTextBookmark */;
+			4D7B95B910B3E03600BC0948 /* PBXTextBookmark */ = 4D7B95B910B3E03600BC0948 /* PBXTextBookmark */;
+			4D8E2D7210BAC69D00A328FE /* PBXTextBookmark */ = 4D8E2D7210BAC69D00A328FE /* PBXTextBookmark */;
+			4D919C0F108D0A3100E2CFBE /* PBXTextBookmark */ = 4D919C0F108D0A3100E2CFBE /* PBXTextBookmark */;
+			4DB6908F10E971B1009D3E78 /* PBXTextBookmark */ = 4DB6908F10E971B1009D3E78 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9BEA5B4C102949590020522E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4D0236BA114A83E7009D8434 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DF2FC57106120B50050420B /* game_server.erl */;
+		name = "game_server.erl: 76";
+		rLen = 0;
+		rLoc = 2299;
+		rType = 0;
+		vrLen = 1127;
+		vrLoc = 1504;
+	};
+	4D0236BD114A83E7009D8434 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D0236BE114A83E7009D8434 /* protocol_server.erl */;
+		name = "protocol_server.erl: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1372;
+		vrLoc = 360;
+	};
+	4D0236BE114A83E7009D8434 /* protocol_server.erl */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.erlang.erl;
+		name = protocol_server.erl;
+		path = /Users/huiver/XCode/pong/src/protocol_server.erl;
+		sourceTree = "<absolute>";
+	};
+	4D26E62310CE3F780082FE20 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DF2FC5A106120B50050420B /* pong_supervisor.erl */;
+		name = "pong_supervisor.erl: 74";
+		rLen = 0;
+		rLoc = 2290;
+		rType = 0;
+		vrLen = 1255;
+		vrLoc = 1471;
+	};
+	4D270E96108B9E0100F29CCE /* project.pbxproj */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.pbxproject;
+		name = project.pbxproj;
+		path = /Users/huiver/XCode/pong/pong.xcodeproj/project.pbxproj;
+		sourceTree = "<absolute>";
+	};
+	4D3FB353114BC6790051E6D6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D3FB354114BC6790051E6D6 /* executives.erl */;
+		name = "executives.erl: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1593;
+		vrLoc = 4216;
+	};
+	4D3FB354114BC6790051E6D6 /* executives.erl */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.erlang.erl;
+		name = executives.erl;
+		path = "/Users/huiver/Desktop/ledart-update/src/executives.erl";
+		sourceTree = "<absolute>";
+	};
+	4D6222A510BC3E720071E12C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DF2FC59106120B50050420B /* pong_app.erl */;
+		name = "pong_app.erl: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 784;
+		vrLoc = 0;
+	};
+	4D7A05BB114BCF1400B5967B /* media.hrl */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1072, 577}}";
+			sepNavSelRange = "{194, 20}";
+			sepNavVisRange = "{0, 254}";
+		};
+	};
+	4D7A05CD114CE02F00B5967B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DF2FC5B106120B50050420B /* protocol.hrl */;
+		name = "protocol.hrl: 1";
+		rLen = 0;
+		rLoc = 23;
+		rType = 0;
+		vrLen = 448;
+		vrLoc = 0;
+	};
+	4D7A05CE114CE02F00B5967B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DF2FC56106120B50050420B /* game.hrl */;
+		name = "game.hrl: 5";
+		rLen = 19;
+		rLoc = 140;
+		rType = 0;
+		vrLen = 323;
+		vrLoc = 0;
+	};
+	4D7A05CF114CE02F00B5967B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DF5C39B10A8632C00E3C647 /* executives.erl */;
+		name = "executives.erl: 181";
+		rLen = 0;
+		rLoc = 6838;
+		rType = 0;
+		vrLen = 1462;
+		vrLoc = 6290;
+	};
+	4D7A05D0114CE02F00B5967B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DBF1CEC10AE00FB00179FC5 /* pong.config */;
+		name = "pong.config: 2";
+		rLen = 0;
+		rLoc = 41;
+		rType = 0;
+		vrLen = 337;
+		vrLoc = 0;
+	};
+	4D7A05D1114CE02F00B5967B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DF2FC64106120D10050420B /* pong.app */;
+		name = "pong.app: 11";
+		rLen = 0;
+		rLoc = 333;
+		rType = 0;
+		vrLen = 360;
+		vrLoc = 0;
+	};
+	4D7A05D2114CE02F00B5967B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9B00F0E210296027000265E6 /* run.sh */;
+		name = "run.sh: 7";
+		rLen = 18;
+		rLoc = 57;
+		rType = 0;
+		vrLen = 171;
+		vrLoc = 0;
+	};
+	4D7A05D3114CE02F00B5967B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D7A05BB114BCF1400B5967B /* media.hrl */;
+		name = "media.hrl: 9";
+		rLen = 20;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 254;
+		vrLoc = 0;
+	};
+	4D7A05D4114CE02F00B5967B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D7A05BB114BCF1400B5967B /* media.hrl */;
+		name = "media.hrl: 9";
+		rLen = 20;
+		rLoc = 194;
+		rType = 0;
+		vrLen = 254;
+		vrLoc = 0;
+	};
+	4D7B95B710B3E03600BC0948 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D7B95B810B3E03600BC0948 /* gl_funcs.hrl */;
+		name = "gl_funcs.hrl: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2163;
+		vrLoc = 1593;
+	};
+	4D7B95B810B3E03600BC0948 /* gl_funcs.hrl */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.erlang.hrl;
+		name = gl_funcs.hrl;
+		path = "/Users/huiver/Downloads/esdl-1.0.1/src/gl_funcs.hrl";
+		sourceTree = "<absolute>";
+	};
+	4D7B95B910B3E03600BC0948 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D7B95BA10B3E03600BC0948 /* esdl.hrl */;
+		name = "esdl.hrl: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1243;
+		vrLoc = 0;
+	};
+	4D7B95BA10B3E03600BC0948 /* esdl.hrl */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.erlang.hrl;
+		name = esdl.hrl;
+		path = "/Users/huiver/Downloads/esdl-1.0.1/src/esdl.hrl";
+		sourceTree = "<absolute>";
+	};
+	4D8E2D7210BAC69D00A328FE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DA4D55E10BAC634003103F2 /* sdl_audio.erl */;
+		name = "sdl_audio.erl: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1520;
+		vrLoc = 1001;
+	};
+	4D919C0F108D0A3100E2CFBE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4D270E96108B9E0100F29CCE /* project.pbxproj */;
+		name = "project.pbxproj: 193";
+		rLen = 0;
+		rLoc = 7893;
+		rType = 0;
+		vrLen = 897;
+		vrLoc = 6996;
+	};
+	4DA4D55E10BAC634003103F2 /* sdl_audio.erl */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.erlang.erl;
+		name = sdl_audio.erl;
+		path = "/Users/huiver/Downloads/esdl-1.0.1/src/sdl_audio.erl";
+		sourceTree = "<absolute>";
+	};
+	4DB6908F10E971B1009D3E78 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 4DF2FC58106120B50050420B /* led_server.erl */;
+		name = "led_server.erl: 31";
+		rLen = 76;
+		rLoc = 1018;
+		rType = 0;
+		vrLen = 1444;
+		vrLoc = 150;
+	};
+	4DBF1CEC10AE00FB00179FC5 /* pong.config */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1072, 577}}";
+			sepNavSelRange = "{41, 0}";
+			sepNavVisRange = "{0, 337}";
+			sepNavVisRect = "{{0, 0}, {1191, 560}}";
+		};
+	};
+	4DF2FC56106120B50050420B /* game.hrl */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1072, 577}}";
+			sepNavSelRange = "{140, 19}";
+			sepNavVisRange = "{0, 323}";
+		};
+	};
+	4DF2FC57106120B50050420B /* game_server.erl */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1072, 3237}}";
+			sepNavSelRange = "{2299, 0}";
+			sepNavVisRange = "{1504, 1127}";
+			sepNavWindowFrame = "{{15, 83}, {750, 795}}";
+		};
+	};
+	4DF2FC58106120B50050420B /* led_server.erl */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1072, 1792}}";
+			sepNavSelRange = "{1018, 76}";
+			sepNavVisRange = "{150, 1444}";
+			sepNavWindowFrame = "{{15, 78}, {1390, 795}}";
+		};
+	};
+	4DF2FC59106120B50050420B /* pong_app.erl */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 594}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 784}";
+		};
+	};
+	4DF2FC5A106120B50050420B /* pong_supervisor.erl */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1072, 1274}}";
+			sepNavSelRange = "{2290, 0}";
+			sepNavVisRange = "{1471, 1255}";
+			sepNavWindowFrame = "{{15, 78}, {1390, 795}}";
+		};
+	};
+	4DF2FC5B106120B50050420B /* protocol.hrl */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1072, 577}}";
+			sepNavSelRange = "{23, 0}";
+			sepNavVisRange = "{0, 448}";
+		};
+	};
+	4DF2FC64106120D10050420B /* pong.app */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1072, 577}}";
+			sepNavSelRange = "{333, 0}";
+			sepNavVisRange = "{0, 360}";
+		};
+	};
+	4DF5C39B10A8632C00E3C647 /* executives.erl */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1072, 2990}}";
+			sepNavSelRange = "{6838, 0}";
+			sepNavVisRange = "{6290, 1462}";
+			sepNavWindowFrame = "{{15, 86}, {1390, 792}}";
+		};
+	};
+	9B00F0E210296027000265E6 /* run.sh */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1072, 577}}";
+			sepNavSelRange = "{57, 18}";
+			sepNavVisRange = "{0, 171}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	9B496A0E1029452D00B64F7F /* pong */ = {
+		activeExec = 0;
+	};
+	9B540EC310294B99000703C8 /* pong */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+			"PBXLSLaunchAction-0" = {
+				PBXLSLaunchAction = 0;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = PBXLSRunLaunchConfig;
+				commandLineArgs = (
+				);
+				displayName = "Executable Runner";
+				environment = {
+				};
+				identifier = com.apple.Xcode.launch.runConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = 9B540EC410294B99000703C8 /* run.sh */;
+		libgmallocEnabled = 0;
+		name = pong;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		startupPath = "<<ProjectDirectory>>";
+	};
+	9B540EC410294B99000703C8 /* run.sh */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.script.sh;
+		name = run.sh;
+		path = /Users/huiver/XCode/pong/ebin/run.sh;
+		sourceTree = "<absolute>";
+	};
+	9BEA5B4C102949590020522E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryName = "https://opensvn.csie.org/ledArtPong";
+			repositoryNamesForRoots = {
+				"" = "https://opensvn.csie.org/ledArtPong";
+			};
+		};
+	};
+	9BEA5B4D102949590020522E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

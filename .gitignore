@@ -3,7 +3,8 @@ pong/ebin/*.beam
 pong/logs/*
 
 */build/
-*/xcode.project/
+pong/xcode.project/
+LEDsimulator/xcode.project/
 
 */.DS_Store
 */*.swp

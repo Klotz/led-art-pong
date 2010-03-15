@@ -1,17 +1,17 @@
-pong/build/*
+# matched further on : pong/build/*
 pong/ebin/*.beam
 pong/logs/*
 
-*/build/
-pong/pong.xcodeproj/
+build
+*.xcodeproj
 
-*/.DS_Store
-*/*.swp
-*/*~.nib
+.DS_Store
+*.swp
+*~.nib
 
-*/*.pbxuser
-*/*.perspective
-*/*.perspectivev3
+*.pbxuser
+*.perspective
+*.perspectivev3
 
-*/*.mode1v3
-*/*.mode2v3
+*.mode1v3
+*.mode2v3
